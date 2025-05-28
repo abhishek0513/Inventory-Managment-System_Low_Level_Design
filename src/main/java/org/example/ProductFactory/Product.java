@@ -1,5 +1,7 @@
 package org.example.ProductFactory;
 
+import org.example.CommonEnum.ProductCategory;
+
 public class Product {
     private String sku;
     private String name;
